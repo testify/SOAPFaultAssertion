@@ -26,7 +26,7 @@
 
     <groupId>org.codice.testify.assertions</groupId>
     <artifactId>soapfaultassertion</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>bundle</packaging>
     <name>SOAP Fault Assertion</name>
 
@@ -34,7 +34,8 @@
         <connection>scm:git:https://github.com/testify/SOAPFaultAssertion.git</connection>
         <developerConnection>scm:git:https://github.com/testify/SOAPFaultAssertion.git</developerConnection>
         <url>https://github.com/testify/SOAPFaultAssertion.git</url>
-    </scm>
+      <tag>soapfaultassertion-0.0.1</tag>
+  </scm>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
